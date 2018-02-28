@@ -1,0 +1,11 @@
+2018-02-28 16:42:51,049 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-28 16:44:20,466 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-28 16:45:10,972 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ZookeeperDemo:chapter05Demo:0.0.1-SNAPSHOT @ /home/dpf/eclipse/zookeeperDemo/ZookeeperDemo/pom.xml.
+2018-02-28 16:45:11,599 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-28 16:45:11,599 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dpf/eclipse/zookeeperDemo/ZookeeperDemo/src/main/resources
+2018-02-28 16:45:11,601 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-28 16:45:11,601 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dpf/eclipse/zookeeperDemo/ZookeeperDemo/src/test/resources
+2018-02-28 16:45:12,789 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-28 16:45:12,789 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dpf/eclipse/zookeeperDemo/ZookeeperDemo/src/main/resources
+2018-02-28 16:45:12,790 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-28 16:45:12,790 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dpf/eclipse/zookeeperDemo/ZookeeperDemo/src/test/resources
